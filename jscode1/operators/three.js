@@ -26,4 +26,4 @@ if(a>=55){
 else{
     console.log("false");
 }
-console.log(typeof (a));
+console.log(typeof (a)); 
